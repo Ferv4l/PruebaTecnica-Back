@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uoWbWHY2igVFx4cG3kAXtgVIz1grhiC0fdXR/mLzBL0m2FgVjwLeerpLsuY5Viu0Xa+2fFx+e2GiVvhYlrLGOQ==",
+  "dgSpecHash": "8xW8BlCHQqwjmYJmB3jRZEPBv8whjXrDJ/TbY4Js9a/Ud1pe+J0Rm72rC3o/8pOSjfnuS6b9w7JAPazDEXdyvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fernando.gomez\\source\\repos\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+  "projectFilePath": "C:\\Users\\fernando.gomez\\source\\repos\\PruebaTecnica-Back\\BooksAPI\\BooksAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fernando.gomez\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\fernando.gomez\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

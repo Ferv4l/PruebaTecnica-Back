@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fernando.gomez\\source\\repos\\BooksAPI\\BooksAPI\\BooksAPI.csproj": {}
+    "C:\\Users\\fernando.gomez\\source\\repos\\PruebaTecnica-Back\\BooksAPI\\BooksAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fernando.gomez\\source\\repos\\BooksAPI\\BooksAPI\\BooksAPI.csproj": {
+    "C:\\Users\\fernando.gomez\\source\\repos\\PruebaTecnica-Back\\BooksAPI\\BooksAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fernando.gomez\\source\\repos\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+        "projectUniqueName": "C:\\Users\\fernando.gomez\\source\\repos\\PruebaTecnica-Back\\BooksAPI\\BooksAPI.csproj",
         "projectName": "BooksAPI",
-        "projectPath": "C:\\Users\\fernando.gomez\\source\\repos\\BooksAPI\\BooksAPI\\BooksAPI.csproj",
+        "projectPath": "C:\\Users\\fernando.gomez\\source\\repos\\PruebaTecnica-Back\\BooksAPI\\BooksAPI.csproj",
         "packagesPath": "C:\\Users\\fernando.gomez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fernando.gomez\\source\\repos\\BooksAPI\\BooksAPI\\obj\\",
+        "outputPath": "C:\\Users\\fernando.gomez\\source\\repos\\PruebaTecnica-Back\\BooksAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fernando.gomez\\AppData\\Roaming\\NuGet\\NuGet.Config",
