@@ -1,6 +1,6 @@
 <h1>Gestor de Libros</h1>
 
-> Este repositorio contiene el código fuente y la documentación para el Gestor de Libros, una plataforma especializada en la venta de vehículos de alta gama diseñados específicamente para ejecutivos.
+> Este repositorio contiene el código fuente y la documentación para el Gestor de Libros
 
 
 ## 🚀 Comandos de uso
